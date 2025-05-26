@@ -6,7 +6,7 @@ A simple and responsive to-do list web app built using **HTML**, **CSS**, and **
 
 ## 🔗 Live Demo
 
-[View Live](https://github.com/builtbyusman/to-do-list)
+[View Live](https://builtbyusman.github.io/to-do-list/)
 
 ---
 
